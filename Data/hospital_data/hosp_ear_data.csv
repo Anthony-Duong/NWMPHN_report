@@ -1,0 +1,673 @@
+LGA_code,LGA_name,0-14 count,"0-14 ASR per 100,002",0-14 SR,15-24 count,"15-24 ASR per 100,002",15- 24SR
+PHN101,Central and Eastern Sydney,299,116.8,42,56,24.6,41
+11100,Botany Bay (C),15,168.4,60,#,..,..
+11300,Burwood (A),#,..,..,#,..,..
+11520,Canada Bay (A),8,50.9,18,#,..,..
+11570a,Canterbury-Bankstown (A) - part a,61,179.3,64,9,40,67
+12930,Georges River (A),36,136.8,49,7,32.4,54
+14170,Inner West (A),27,86.4,31,5,23,38
+16550,Randwick (C),26,112.4,40,7,26,43
+16650,Rockdale (C),28,138,49,#,..,..
+17100,Strathfield (A),6,88.5,31,#,..,..
+17150,Sutherland Shire (A),57,132.8,47,11,39.4,66
+17200,Sydney (C),19,91.1,32,#,..,..
+18050,Waverley (A),9,72.5,26,#,..,..
+18500,Woollahra (A),#,..,..,#,..,..
+19399a,Unincorporated NSW - part a,#,..,..,#,..,..
+PHN102,Northern Sydney,183,107.2,38,22,19.2,32
+14000,Hornsby (A),35,125,45,#,..,..
+14100,Hunters Hill (A),#,..,..,#,..,..
+14500,Ku-ring-gai (A),17,74.8,27,#,..,..
+14700,Lane Cove (A),7,89.7,32,#,..,..
+15350,Mosman (A),#,..,..,#,..,..
+15950,North Sydney (A),11,103.7,37,#,..,..
+15990,Northern Beaches (A),61,119.5,43,12,38.1,64
+16260a,Parramatta (C) - part a,5,103.2,37,#,..,..
+16700,Ryde (C),29,133.1,47,#,..,..
+18250,Willoughby (C),13,82.4,29,#,..,..
+PHN103,Western Sydney,335,152.7,54,32,24,40
+10750,Blacktown (C),164,188.6,67,8,15.6,26
+12380,Cumberland (A),93,179.7,64,15,46.1,77
+16260b,Parramatta (C) - part b,47,103.2,37,5,19.5,33
+17420,The Hills Shire (A),30,85.1,30,#,..,..
+PHN104,Nepean Blue Mountains,202,261.7,93,21,43,72
+10900,Blue Mountains (C),27,195.9,70,#,..,..
+13800,Hawkesbury (C),32,241.6,86,#,..,..
+14870,Lithgow (C),9,246.4,88,#,..,..
+16350,Penrith (C),134,290.1,103,17,61.1,102
+PHN105,South Western Sydney,405,184.5,66,40,27.7,46
+11450,Camden (A),58,232.4,83,#,..,..
+11500,Campbelltown (C),96,253.4,90,9,38.1,64
+11570b,Canterbury-Bankstown (A) - part b,80,179.3,64,12,40,67
+12850,Fairfield (C),44,112.4,40,#,..,..
+14900,Liverpool (C),79,152.9,54,10,31.3,52
+18350,Wingecarribee (A),13,155.4,55,#,..,..
+18400,Wollondilly (A),34,297.3,106,#,..,..
+PHN106,South Eastern NSW,368,332,118,27,35.4,59
+10550,Bega Valley (A),39,735.1,262,#,..,..
+12750,Eurobodalla (A),26,494.9,176,#,..,..
+13310,Goulburn Mulwaree (A),15,260.5,93,#,..,..
+14400,Kiama (A),8,208.2,74,#,..,..
+16490,Queanbeyan-Palerang Regional (A),33,265.7,95,#,..,..
+16900,Shellharbour (C),55,385.7,137,#,..,..
+16950,Shoalhaven (C),65,372.7,133,5,46.6,78
+17040,Snowy Monaro Regional (A),7,219.4,78,#,..,..
+17640,Upper Lachlan Shire (A),#,..,..,#,..,..
+18450,Wollongong (C),113,291.8,104,9,28.6,48
+18710,Yass Valley (A),6,168.3,60,#,..,..
+PHN107,Western NSW,364,574.1,204,32,86.8,145
+10300,Balranald (A),#,..,..,#,..,..
+10470,Bathurst Regional (A),33,394.2,140,#,..,..
+10850,Blayney (A),#,..,..,#,..,..
+10950,Bogan (A),#,..,..,#,..,..
+11150,Bourke (A),#,..,..,#,..,..
+11200,Brewarrina (A),#,..,..,#,..,..
+11250,Broken Hill (C),17,556.4,198,#,..,..
+11400,Cabonne (A),14,522.5,186,#,..,..
+11700,Central Darling (A),#,..,..,#,..,..
+11750,Cobar (A),6,537.8,191,#,..,..
+12150,Coonamble (A),#,..,..,#,..,..
+12350,Cowra (A),9,382.2,136,6,416.1,696
+18230,Dubbo Regional (A),135,"1,155.70",411,#,..,..
+12900,Forbes (A),9,444.1,158,#,..,..
+12950,Gilgandra (A),#,..,..,#,..,..
+14600a,Lachlan (A) - part a,#,..,..,#,..,..
+15270,Mid-Western Regional (A),22,431.3,154,#,..,..
+15850,Narromine (A),8,528.1,188,#,..,..
+16100,Oberon (A),#,..,..,#,..,..
+16150,Orange (C),45,476.1,170,#,..,..
+16200,Parkes (A),#,..,..,#,..,..
+17900,Walgett (A),10,805.9,287,#,..,..
+17950,Warren (A),#,..,..,#,..,..
+18020,Warrumbungle Shire (A),11,666.4,237,#,..,..
+18100,Weddin (A),#,..,..,#,..,..
+18200,Wentworth (A),#,..,..,#,..,..
+19399b,Unincorporated NSW - part b,#,..,..,#,..,..
+PHN108,Hunter New England and Central Coast,644,271.1,97,60,38.7,65
+10130,Armidale Regional (A),12,222.4,79,#,..,..
+11650,Central Coast (C),220,347.3,124,15,36.7,61
+11720,Cessnock (C),16,129.8,46,#,..,..
+12700,Dungog (A),#,..,..,#,..,..
+13010,Glen Innes Severn (A),#,..,..,#,..,..
+13550,Gunnedah (A),11,395.7,141,#,..,..
+13660,Gwydir (A),#,..,..,#,..,..
+14200,Inverell (A),17,492.4,175,#,..,..
+14650,Lake Macquarie (C),93,241.2,86,9,36.8,62
+14920,Liverpool Plains (A),#,..,..,#,..,..
+15050,Maitland (C),38,207.3,74,6,58.5,98
+15240,Mid-Coast (A),32,230.5,82,#,..,..
+15300,Moree Plains (A),#,..,..,#,..,..
+15650,Muswellbrook (A),9,242.2,86,#,..,..
+15750,Narrabri (A),6,198.2,71,#,..,..
+15900,Newcastle (C),56,198.7,71,8,32.1,54
+16400,Port Stephens (A),42,336.5,120,#,..,..
+17000,Singleton (A),15,292.9,104,#,..,..
+17310,Tamworth Regional (A),44,349.2,124,7,94.3,158
+17400a,Tenterfield (A) - part a,#,..,..,#,..,..
+17620,Upper Hunter Shire (A),#,..,..,#,..,..
+17650,Uralla (A),6,596.4,212,#,..,..
+17850,Walcha (A),#,..,..,#,..,..
+PHN109,North Coast,276,311.6,111,36,65.8,110
+10250,Ballina (A),10,143.7,51,16,346,579
+10600,Bellingen (A),#,..,..,#,..,..
+11350,Byron (A),10,168.6,60,#,..,..
+11730,Clarence Valley (A),25,300.9,107,5,95.8,160
+11800,Coffs Harbour (C),68,486.3,173,5,58.1,97
+14350,Kempsey (A),30,579,206,#,..,..
+14550,Kyogle (A),#,..,..,#,..,..
+14850,Lismore (C),22,295.9,105,#,..,..
+15700,Nambucca (A),10,306.8,109,#,..,..
+16380,Port Macquarie-Hastings (A),29,216.9,77,#,..,..
+16610,Richmond Valley (A),9,204.6,73,#,..,..
+17400b,Tenterfield (A) - part b,#,..,..,#,..,..
+17550,Tweed (A),57,353.5,126,#,..,..
+PHN110,Murrumbidgee,166,349.6,124,22,73,122
+10650,Berrigan (A),6,418.6,149,#,..,..
+10800,Bland (A),#,..,..,#,..,..
+11600,Carrathool (A),#,..,..,#,..,..
+12000,Coolamon (A),#,..,..,#,..,..
+13510,Cootamundra-Gundagai Regional (A) ,6,337.1,120,#,..,..
+12730,Edward River (A),6,385.6,137,#,..,..
+12870,Federation (A),8,416.8,148,#,..,..
+13340,Greater Hume Shire (A),7,309.8,110,#,..,..
+13450,Griffith (C),19,329.3,117,#,..,..
+13850,Hay (A),#,..,..,#,..,..
+13910,Hilltops (A),17,468.7,167,#,..,..
+14300,Junee (A),#,..,..,#,..,..
+14600b,Lachlan (A) - part b,#,..,..,#,..,..
+14750,Leeton (A),5,220.8,79,#,..,..
+14950,Lockhart (A),#,..,..,#,..,..
+15520,Murray River (A),10,464.3,165,#,..,..
+15560,Murrumbidgee (A),#,..,..,#,..,..
+15800,Narrandera (A),#,..,..,#,..,..
+17080,Snowy Valleys (A),9,329.4,117,#,..,..
+17350,Temora (A),#,..,..,#,..,..
+17750,Wagga Wagga (C),49,366.4,130,6,62.5,105
+PHN201,North Western Melbourne,747,211,75,117,44.4,74
+21180,Brimbank (C),75,189.5,67,14,48.1,80
+21890,Darebin (C),59,224.1,80,6,29.1,49
+23110,Hobsons Bay (C),34,183.5,65,6,56.9,95
+23270,Hume (C),160,300.5,107,26,80.3,134
+24130a,Macedon Ranges (S) - part a,21,325.2,116,#,..,..
+24330,Maribyrnong (C),20,125.6,45,6,51.6,86
+24600,Melbourne (C),12,98.3,35,12,23.7,40
+24650,Melton (C),99,249.3,89,15,72.2,121
+25060,Moonee Valley (C),27,125.4,45,#,..,..
+25150a,Moorabool (S) - part a,26,591.8,211,#,..,..
+25250,Moreland (C),64,203.5,72,10,44.5,74
+27260,Wyndham (C),136,189.1,67,11,35,59
+27350,Yarra (C),14,115.6,41,#,..,..
+PHN202,Eastern Melbourne,510,182.7,65,66,30,50
+20660,Banyule (C),36,148.2,53,#,..,..
+21110,Boroondara (C),17,61.7,22,#,..,..
+23670,Knox (C),70,242.9,86,#,..,..
+24210,Manningham (C),12,60.2,21,5,30.4,51
+24410,Maroondah (C),33,147,52,#,..,..
+24850a,Mitchell (S) - part a,20,518.1,184,#,..,..
+24970a,Monash (C) - part a,37,128.2,46,6,16.5,28
+25620a,Murrindindi (S) - part a,#,..,..,#,..,..
+25710,Nillumbik (S),25,213,76,#,..,..
+26980,Whitehorse (C),35,121.3,43,7,25.1,42
+27070,Whittlesea (C),116,226.1,81,17,60,100
+27450,Yarra Ranges (S),99,329.8,117,11,55.4,93
+PHN203,South Eastern Melbourne,739,247.8,88,90,44.6,75
+20910,Bayside (C),20,111.1,40,#,..,..
+21450,Cardinia (S),130,497.2,177,8,57,95
+21610,Casey (C),238,293.8,105,29,60.4,101
+22170,Frankston (C),117,425.7,152,17,101.2,169
+22310,Glen Eira (C),28,101.9,36,5,24.6,41
+22670,Greater Dandenong (C),53,167.3,60,10,42.3,71
+23430,Kingston (C),46,157.7,56,7,36,60
+24970b,Monash (C) - part b,#,..,..,#,..,..
+25340,Mornington Peninsula (S),80,289.8,103,#,..,..
+25900,Port Phillip (C),16,110.9,39,#,..,..
+26350,Stonnington (C),11,78.8,28,#,..,..
+PHN204,Gippsland,251,499.5,178,21,68.6,115
+20740,Bass Coast (S),15,261.4,93,#,..,..
+20830,Baw Baw (S),62,606.5,216,7,113.4,190
+22110,East Gippsland (S),26,345.5,123,#,..,..
+23810,Latrobe (C),74,538.6,192,5,54.6,91
+26170,South Gippsland (S),26,497.3,177,#,..,..
+26810,Wellington (S),48,620.5,221,#,..,..
+29399a,Unincorporated Vic - part a,#,..,..,#,..,..
+PHN205,Murray,510,447.7,159,55,73.5,123
+10050,Albury (C),36,340.3,121,#,..,..
+20110,Alpine (S),#,..,..,#,..,..
+21010,Benalla (RC),11,499,178,#,..,..
+21270,Buloke (S),#,..,..,#,..,..
+21370,Campaspe (S),48,730,260,#,..,..
+22250,Gannawarra (S),6,374.2,133,#,..,..
+22620,Greater Bendigo (C),110,489.4,174,17,108.7,182
+22830,Greater Shepparton (C),40,300.8,107,#,..,..
+23350,Indigo (S),10,359.4,128,#,..,..
+23940a,Loddon (S) - part a,#,..,..,#,..,..
+24130b,Macedon Ranges (S) - part b,12,325.2,116,#,..,..
+24250,Mansfield (S),#,..,..,#,..,..
+24780,Mildura (RC),51,474.7,169,#,..,..
+24850b,Mitchell (S) - part b,30,518.1,184,#,..,..
+24900,Moira (S),26,510.9,182,#,..,..
+25430,Mount Alexander (S),19,667.7,238,#,..,..
+25620b,Murrindindi (S) - part b,#,..,..,#,..,..
+26430,Strathbogie (S),6,390.1,139,#,..,..
+26610,Swan Hill (RC),14,340.5,121,#,..,..
+26670,Towong (S),#,..,..,#,..,..
+26700,Wangaratta (RC),37,722.4,257,#,..,..
+27170,Wodonga (C),40,457.9,163,#,..,..
+29399b,Unincorporated Vic - part b,#,..,..,#,..,..
+PHN206,Western Victoria,532,447,159,94,117,196
+20260,Ararat (RC),10,545.1,194,#,..,..
+20570,Ballarat (C),112,537.4,191,50,336.6,563
+21670,Central Goldfields (S),5,269.1,96,#,..,..
+21750,Colac-Otway (S),11,281.6,100,#,..,..
+21830,Corangamite (S),11,419.3,149,#,..,..
+22410,Glenelg (S),20,659.1,235,#,..,..
+22490,Golden Plains (S),22,441.5,157,6,197.6,330
+22750,Greater Geelong (C),177,376.8,134,20,59.6,100
+22910,Hepburn (S),#,..,..,#,..,..
+22980,Hindmarsh (S),#,..,..,#,..,..
+23190,Horsham (RC),22,575,205,#,..,..
+23940b,Loddon (S) - part b,#,..,..,#,..,..
+25150b,Moorabool (S) - part b,15,591.8,211,#,..,..
+25490,Moyne (S),20,626.4,223,#,..,..
+25810,Northern Grampians (S),11,640.3,228,#,..,..
+25990,Pyrenees (S),#,..,..,#,..,..
+26080,Queenscliffe (B),#,..,..,#,..,..
+26260,Southern Grampians (S),14,505.5,180,#,..,..
+26490,Surf Coast (S),12,178.6,64,#,..,..
+26730,Warrnambool (C),47,764.1,272,#,..,..
+26890,West Wimmera (S),#,..,..,#,..,..
+27630,Yarriambiack (S),#,..,..,#,..,..
+PHN301,Brisbane North,494,261.6,93,160,110.5,185
+31000a,Brisbane (C) - part a,229,228.2,81,93,112.2,188
+35010,Moreton Bay (R),303,320.1,114,98,167.1,279
+36580a,Somerset (R) - part a,#,..,..,#,..,..
+PHN302,Brisbane South,"1,400",601.2,214,374,229.3,384
+31000b,Brisbane (C) - part b,273,228.2,81,111,112.2,188
+34590,Logan (C),887,"1,162.40",414,190,411,687
+36250,Redland (C),165,581.2,207,33,167.2,280
+36510a,Scenic Rim (R) - part a,17,646.8,230,#,..,..
+PHN303,Gold Coast,229,202.2,72,36,44.1,74
+33430,Gold Coast (C),224,202.1,72,34,43.1,72
+36510b,Scenic Rim (R) - part b,17,646.8,230,#,..,..
+PHN304,Darling Downs and West Moreton,495,397.6,142,78,104.5,175
+30370a,Banana (S) - part a,#,..,..,#,..,..
+32330,Cherbourg (S),#,..,..,#,..,..
+33610,Goondiwindi (R),11,467.6,166,#,..,..
+33960,Ipswich (C),216,408.2,145,38,126.5,212
+34580,Lockyer Valley (R),30,387.3,138,#,..,..
+36510c,Scenic Rim (R) - part c,14,646.8,230,#,..,..
+36580b,Somerset (R) - part b,17,407,145,#,..,..
+36630,South Burnett (R),34,571.7,204,6,165.6,277
+36660,Southern Downs (R),16,257.3,92,#,..,..
+36910,Toowoomba (R),126,377.7,134,23,103.9,174
+37310,Western Downs (R),33,440.3,157,#,..,..
+PHN305,Western Queensland,79,536.7,191,17,238.8,399
+30300,Balonne (S),#,..,..,#,..,..
+30410,Barcaldine (R),#,..,..,#,..,..
+30450,Barcoo (S),#,..,..,#,..,..
+30760,Blackall-Tambo (R),#,..,..,#,..,..
+30900,Boulia (S),#,..,..,#,..,..
+31750,Bulloo (S),#,..,..,#,..,..
+31950,Burke (S),#,..,..,#,..,..
+32250,Carpentaria (S),5,"1,212.40",432,#,..,..
+32450,Cloncurry (S),7,"1,083.80",386,#,..,..
+32750,Diamantina (S),#,..,..,#,..,..
+32770,Doomadgee (S),#,..,..,#,..,..
+34710,Longreach (R),#,..,..,#,..,..
+34800,McKinlay (S),#,..,..,#,..,..
+34860,Maranoa (R),10,340.3,121,#,..,..
+35250,Mornington (S),#,..,..,#,..,..
+35300,Mount Isa (C),28,553.8,197,#,..,..
+35600,Murweh (S),6,592.3,211,#,..,..
+35800,Paroo (S),#,..,..,#,..,..
+36150,Quilpie (S),#,..,..,#,..,..
+37400,Winton (S),#,..,..,#,..,..
+PHN306,"Central Queensland, Wide Bay, Sunshine Coast",316,202.5,72,53,53.6,90
+30370b,Banana (S) - part b,6,192.8,69,#,..,..
+31820,Bundaberg (R),14,89.9,32,8,78.2,131
+32270,Central Highlands (R),19,259.4,92,#,..,..
+33220,Fraser Coast (R),35,210,75,6,58.4,98
+33360,Gladstone (R),28,195,69,#,..,..
+33620,Gympie (R),25,280,100,#,..,..
+34530,Livingstone (S),20,295.4,105,#,..,..
+35740,Noosa (S),8,104,37,#,..,..
+35760,North Burnett (R),#,..,..,#,..,..
+36370,Rockhampton (R),51,302.5,108,#,..,..
+36720,Sunshine Coast (R),108,192.1,68,19,50.9,85
+37550,Woorabinda (S),#,..,..,#,..,..
+PHN307,Northern Queensland,345,244.8,87,77,86.6,145
+30250,Aurukun (S),#,..,..,#,..,..
+31900,Burdekin (S),6,216.1,77,#,..,..
+32080,Cairns (R),78,234.5,83,12,60.8,102
+32260,Cassowary Coast (R),21,392.4,140,#,..,..
+32310,Charters Towers (R),9,437.6,156,#,..,..
+32500,Cook (S),7,789.7,281,#,..,..
+32600,Croydon (S),#,..,..,#,..,..
+32810,Douglas (S),#,..,..,#,..,..
+33100,Etheridge (S),#,..,..,#,..,..
+33200,Flinders (S),#,..,..,#,..,..
+33800,Hinchinbrook (S),9,564.4,201,#,..,..
+33830,Hope Vale (S),#,..,..,#,..,..
+33980,Isaac (R),#,..,..,#,..,..
+34420,Kowanyama (S),#,..,..,#,..,..
+34570,Lockhart River (S),#,..,..,#,..,..
+34770,Mackay (R),43,177.2,63,10,71.7,120
+34830,Mapoon (S),#,..,..,#,..,..
+34880,Mareeba (S),23,600.8,214,#,..,..
+35670,Napranum (S),#,..,..,#,..,..
+35780,Northern Peninsula Area (R),#,..,..,#,..,..
+35790,Palm Island (S),#,..,..,#,..,..
+36070,Pormpuraaw (S),#,..,..,#,..,..
+36300,Richmond (S),#,..,..,#,..,..
+36820,Tablelands (R),12,273.4,97,#,..,..
+36950,Torres (S),5,542.8,193,#,..,..
+36960,Torres Strait Island (R),7,406.6,145,#,..,..
+37010,Townsville (C),77,197.9,70,37,123.1,206
+37300,Weipa (T),6,505.9,180,#,..,..
+37340,Whitsunday (R),10,159.9,57,6,156.4,262
+37570,Wujal Wujal (S),#,..,..,#,..,..
+37600,Yarrabah (S),#,..,..,#,..,..
+PHN401,Adelaide,711,327.3,117,71,43.9,73
+40070,Adelaide (C),#,..,..,#,..,..
+40700,Burnside (C),8,111.4,40,#,..,..
+40910,Campbelltown (C),21,243.7,87,#,..,..
+41060,Charles Sturt (C),43,226.6,81,#,..,..
+42600,Holdfast Bay (C),6,121.5,43,#,..,..
+44060,Marion (C),48,300.4,107,#,..,..
+44340,Mitcham (C),27,236.2,84,#,..,..
+45290,Norwood Payneham St Peters (C),9,171.3,61,#,..,..
+45340,Onkaparinga (C),155,491,175,8,37.2,62
+45680,Playford (C),128,558,199,12,91.6,153
+45890,Port Adelaide Enfield (C),55,243.1,87,8,49.9,83
+46510,Prospect (C),6,152.6,54,#,..,..
+47140,Salisbury (C),104,358.1,127,12,61.8,103
+47700,Tea Tree Gully (C),55,320,114,#,..,..
+47980,Unley (C),16,269.4,96,17,333.7,558
+48260,Walkerville (M),#,..,..,#,..,..
+48410,West Torrens (C),27,295.6,105,#,..,..
+PHN402,Country SA,474,541.2,193,41,72.3,121
+40120,Adelaide Hills (DC),22,317.6,113,#,..,..
+43920,Adelaide Plains (DC),7,458.4,163,#,..,..
+40220,Alexandrina (DC),19,503.1,179,#,..,..
+40250,Anangu Pitjantjatjara (AC),11,"1,742.30",620,#,..,..
+40310,Barossa (DC),23,537,191,#,..,..
+40430,Barunga West (DC),#,..,..,#,..,..
+40520,Berri and Barmera (DC),7,369,131,#,..,..
+41010,Ceduna (DC),13,"1,733.60",617,#,..,..
+41140,Clare and Gilbert Valleys (DC),#,..,..,#,..,..
+41190,Cleve (DC),#,..,..,#,..,..
+41330,Coober Pedy (DC),#,..,..,#,..,..
+41560,Copper Coast (DC),11,490.5,175,#,..,..
+41750,Elliston (DC),#,..,..,#,..,..
+41830,Flinders Ranges (DC),#,..,..,#,..,..
+41960,Franklin Harbour (DC),#,..,..,#,..,..
+42030,Gawler (T),26,582.9,208,#,..,..
+42110,Goyder (DC),#,..,..,#,..,..
+42250,Grant (DC),6,430,153,#,..,..
+42750,Kangaroo Island (DC),5,604.8,215,#,..,..
+43080,Karoonda East Murray (DC),#,..,..,#,..,..
+43220,Kimba (DC),#,..,..,#,..,..
+43360,Kingston (DC),#,..,..,#,..,..
+43650,Light (RegC),17,579.2,206,#,..,..
+43710,Lower Eyre Peninsula (DC),8,738.6,263,#,..,..
+43790,Loxton Waikerie (DC),7,345.6,123,#,..,..
+44000,Maralinga Tjarutja (AC),#,..,..,#,..,..
+44210,Mid Murray (DC),7,558.9,199,#,..,..
+44550,Mount Barker (DC),50,705.1,251,5,108.8,182
+44620,Mount Gambier (C),29,544.3,194,#,..,..
+44830,Mount Remarkable (DC),#,..,..,#,..,..
+45040,Murray Bridge (RC),30,772.8,275,#,..,..
+45090,Naracoorte and Lucindale (DC),10,617.3,220,#,..,..
+45120,Northern Areas (DC),#,..,..,#,..,..
+45400,Orroroo/Carrieton (DC),#,..,..,#,..,..
+45540,Peterborough (DC),#,..,..,#,..,..
+46090,Port Augusta (C),11,395.4,141,#,..,..
+46300,Port Lincoln (C),31,"1,083.30",386,7,433.1,724
+46450,Port Pirie City and Dists (M),10,338.8,121,#,..,..
+46670,Renmark Paringa (DC),14,834.9,297,#,..,..
+46860,Robe (DC),#,..,..,#,..,..
+46970,Roxby Downs (M),#,..,..,#,..,..
+47290,Southern Mallee (DC),#,..,..,#,..,..
+47490,Streaky Bay (DC),8,"1,719.30",612,#,..,..
+47630,Tatiara (DC),6,486.3,173,#,..,..
+47800,The Coorong (DC),5,539.5,192,#,..,..
+47910,Tumby Bay (DC),#,..,..,#,..,..
+48050,Victor Harbor (C),11,561.5,200,#,..,..
+48130,Wakefield (DC),#,..,..,#,..,..
+48340,Wattle Range (DC),8,390.1,139,#,..,..
+48540,Whyalla (C),14,342.4,122,#,..,..
+48640,Wudinna (DC),#,..,..,#,..,..
+48750,Yankalilla (DC),#,..,..,#,..,..
+48830,Yorke Peninsula (DC),5,326.4,116,#,..,..
+49399,Unincorporated SA,7,"1,407.20",501,#,..,..
+PHN501,Perth North,399,194.4,69,54,39.6,66
+50350,Bassendean (T),8,266.8,95,#,..,..
+50420,Bayswater (C),18,160.5,57,5,67.5,113
+51310,Cambridge (T),#,..,..,#,..,..
+51750,Claremont (T),#,..,..,#,..,..
+52170,Cottesloe (T),#,..,..,#,..,..
+54170,Joondalup (C),48,162.8,58,5,23.5,39
+54200,Kalamunda (S),24,213.6,76,#,..,..
+55740,Mosman Park (T),#,..,..,#,..,..
+56090,Mundaring (S),14,211.4,75,#,..,..
+56580,Nedlands (C),#,..,..,#,..,..
+56930,Peppermint Grove (S),#,..,..,#,..,..
+57080,Perth (C),#,..,..,#,..,..
+57910,Stirling (C),56,141.5,50,11,45,75
+57980,Subiaco (C),#,..,..,#,..,..
+58050,Swan (C),84,256.3,91,8,43.7,73
+58570,Vincent (C),#,..,..,#,..,..
+58760,Wanneroo (C),131,277.1,99,16,56.5,95
+PHN502,Perth South,428,214.7,76,34,26.6,45
+50210,Armadale (C),44,199.8,71,#,..,..
+50490,Belmont (C),21,282.7,101,#,..,..
+51330,Canning (C),20,124.1,44,#,..,..
+51820,Cockburn (C),44,189.4,67,#,..,..
+53150,East Fremantle (T),#,..,..,#,..,..
+53430,Fremantle (C),#,..,..,#,..,..
+53780,Gosnells (C),61,228.3,81,5,30.5,51
+54830,Kwinana (C),35,325.1,116,#,..,..
+55110,Mandurah (C),48,305,109,#,..,..
+55320,Melville (C),17,97.6,35,#,..,..
+56230,Murray (S),8,247.6,88,#,..,..
+57490,Rockingham (C),77,257.4,92,5,28.1,47
+57700,Serpentine-Jarrahdale (S),30,370.4,132,#,..,..
+57840,South Perth (C),7,110,39,#,..,..
+58510,Victoria Park (T),11,190.7,68,#,..,..
+58820,Waroona (S),#,..,..,#,..,..
+PHN503,Country WA,616,570.9,203,37,65.2,109
+50080,Albany (C),29,435.6,155,#,..,..
+50250,Ashburton (S),#,..,..,#,..,..
+50280,Augusta-Margaret River (S),6,172.7,61,#,..,..
+50560,Beverley (S),#,..,..,#,..,..
+50630,Boddington (S),#,..,..,#,..,..
+50770,Boyup Brook (S),#,..,..,#,..,..
+50840,Bridgetown-Greenbushes (S),#,..,..,#,..,..
+50910,Brookton (S),#,..,..,#,..,..
+50980,Broome (S),58,"1,386.50",494,#,..,..
+51080,Broomehill-Tambellup (S),#,..,..,#,..,..
+51120,Bruce Rock (S),#,..,..,#,..,..
+51190,Bunbury (C),33,574.2,204,#,..,..
+51260,Busselton (C),38,515.5,184,#,..,..
+51400,Capel (S),11,279.7,100,#,..,..
+51470,Carnamah (S),#,..,..,#,..,..
+51540,Carnarvon (S),8,799.8,285,#,..,..
+51610,Chapman Valley (S),#,..,..,#,..,..
+51680,Chittering (S),#,..,..,#,..,..
+51890,Collie (S),6,364.8,130,#,..,..
+51960,Coolgardie (S),6,688.9,245,#,..,..
+52030,Coorow (S),#,..,..,#,..,..
+52100,Corrigin (S),#,..,..,#,..,..
+52240,Cranbrook (S),#,..,..,#,..,..
+52310,Cuballing (S),#,..,..,#,..,..
+52380,Cue (S),#,..,..,#,..,..
+52450,Cunderdin (S),#,..,..,#,..,..
+52520,Dalwallinu (S),#,..,..,#,..,..
+52590,Dandaragan (S),#,..,..,#,..,..
+52660,Dardanup (S),13,407.7,145,#,..,..
+52730,Denmark (S),5,538.5,192,#,..,..
+52800,Derby-West Kimberley (S),45,"2,008.00",715,#,..,..
+52870,Donnybrook-Balingup (S),#,..,..,#,..,..
+52940,Dowerin (S),#,..,..,#,..,..
+53010,Dumbleyung (S),#,..,..,#,..,..
+53080,Dundas (S),#,..,..,#,..,..
+53220,East Pilbara (S),18,"1,007.70",359,#,..,..
+53290,Esperance (S),13,455.5,162,#,..,..
+53360,Exmouth (S),#,..,..,#,..,..
+53570,Gingin (S),#,..,..,#,..,..
+53640,Gnowangerup (S),#,..,..,#,..,..
+53710,Goomalling (S),#,..,..,#,..,..
+53800,Greater Geraldton (C),59,746.2,266,7,148.6,249
+53920,Halls Creek (S),26,"2,697.60",960,#,..,..
+53990,Harvey (S),16,279.5,100,#,..,..
+54060,Irwin (S),#,..,..,#,..,..
+54130,Jerramungup (S),#,..,..,#,..,..
+54280,Kalgoorlie/Boulder (C),33,457.2,163,#,..,..
+54310,Karratha (C),17,274.9,98,#,..,..
+54340,Katanning (S),#,..,..,#,..,..
+54410,Kellerberrin (S),#,..,..,#,..,..
+54480,Kent (S),#,..,..,#,..,..
+54550,Kojonup (S),#,..,..,#,..,..
+54620,Kondinin (S),#,..,..,#,..,..
+54690,Koorda (S),#,..,..,#,..,..
+54760,Kulin (S),#,..,..,#,..,..
+54900,Lake Grace (S),#,..,..,#,..,..
+54970,Laverton (S),#,..,..,#,..,..
+55040,Leonora (S),#,..,..,#,..,..
+55180,Manjimup (S),6,382.6,136,#,..,..
+55250,Meekatharra (S),#,..,..,#,..,..
+55390,Menzies (S),#,..,..,#,..,..
+55460,Merredin (S),#,..,..,#,..,..
+55530,Mingenew (S),#,..,..,#,..,..
+55600,Moora (S),#,..,..,#,..,..
+55670,Morawa (S),#,..,..,#,..,..
+55810,Mount Magnet (S),#,..,..,#,..,..
+55880,Mount Marshall (S),#,..,..,#,..,..
+55950,Mukinbudin (S),#,..,..,#,..,..
+56160,Murchison (S),#,..,..,#,..,..
+56300,Nannup (S),#,..,..,#,..,..
+56370,Narembeen (S),#,..,..,#,..,..
+56460,Narrogin (S),#,..,..,#,..,..
+56620,Ngaanyatjarraku (S),#,..,..,#,..,..
+56730,Northam (S),6,302,108,#,..,..
+56790,Northampton (S),#,..,..,#,..,..
+56860,Nungarin (S),#,..,..,#,..,..
+57000,Perenjori (S),#,..,..,#,..,..
+57140,Pingelly (S),#,..,..,#,..,..
+57210,Plantagenet (S),#,..,..,#,..,..
+57280,Port Hedland (T),21,503.1,179,#,..,..
+57350,Quairading (S),#,..,..,#,..,..
+57420,Ravensthorpe (S),#,..,..,#,..,..
+57630,Sandstone (S),#,..,..,#,..,..
+57770,Shark Bay (S),#,..,..,#,..,..
+58190,Tammin (S),#,..,..,#,..,..
+58260,Three Springs (S),#,..,..,#,..,..
+58330,Toodyay (S),#,..,..,#,..,..
+58400,Trayning (S),#,..,..,#,..,..
+58470,Upper Gascoyne (S),#,..,..,#,..,..
+58540,Victoria Plains (S),#,..,..,#,..,..
+58610,Wagin (S),#,..,..,#,..,..
+58680,Wandering (S),#,..,..,#,..,..
+58890,West Arthur (S),#,..,..,#,..,..
+59030,Westonia (S),#,..,..,#,..,..
+59100,Wickepin (S),#,..,..,#,..,..
+59170,Williams (S),#,..,..,#,..,..
+59250,Wiluna (S),#,..,..,#,..,..
+59310,Wongan-Ballidu (S),#,..,..,#,..,..
+59320,Woodanilling (S),#,..,..,#,..,..
+59330,Wyalkatchem (S),#,..,..,#,..,..
+59340,Wyndham-East Kimberley (S),58,"3,097.30",1103,#,..,..
+59350,Yalgoo (S),#,..,..,#,..,..
+59360,Yilgarn (S),#,..,..,#,..,..
+59370,York (S),#,..,..,#,..,..
+PHN601,Tasmania,266,290.9,104,28,44.2,74
+60210,Break O'Day (M),#,..,..,#,..,..
+60410,Brighton (M),22,542.2,193,7,303.2,507
+60610,Burnie (C),10,275.8,98,#,..,..
+60810,Central Coast (M),6,179.3,64,#,..,..
+61010,Central Highlands (M),#,..,..,#,..,..
+61210,Circular Head (M),#,..,..,#,..,..
+61410,Clarence (C),31,303.1,108,#,..,..
+61510,Derwent Valley (M),9,462,164,#,..,..
+61610,Devonport (C),17,374.4,133,5,167.3,280
+61810,Dorset (M),#,..,..,#,..,..
+62010,Flinders (M),#,..,..,#,..,..
+62210,George Town (M),#,..,..,#,..,..
+62410,Glamorgan/Spring Bay (M),#,..,..,#,..,..
+62610,Glenorchy (C),27,310.6,111,#,..,..
+62810,Hobart (C),17,220.3,78,#,..,..
+63010,Huon Valley (M),9,296.7,106,#,..,..
+63210,Kentish (M),#,..,..,#,..,..
+63410,King Island (M),#,..,..,#,..,..
+63610,Kingborough (M),15,210.3,75,#,..,..
+63810,Latrobe (M),#,..,..,#,..,..
+64010,Launceston (C),31,261.9,93,#,..,..
+64210,Meander Valley (M),9,280.2,100,#,..,..
+64610,Northern Midlands (M),#,..,..,#,..,..
+64810,Sorell (M),17,605.4,216,#,..,..
+65010,Southern Midlands (M),#,..,..,#,..,..
+65210,Tasman (M),#,..,..,#,..,..
+65410,Waratah/Wynyard (M),5,225.9,80,#,..,..
+65610,West Coast (M),#,..,..,#,..,..
+65810,West Tamar (M),10,253.2,90,#,..,..
+PHN701,Northern Territory,296,547.8,195,51,158.5,265
+70200,Alice Springs (T),28,478,170,#,..,..
+70420,Barkly (R),11,556.6,198,6,548.3,917
+70540,Belyuen (S),#,..,..,#,..,..
+70620,Central Desert (R),12,"1,008.40",359,#,..,..
+70700,Coomalie (S),#,..,..,#,..,..
+71000,Darwin (C),38,239.2,85,#,..,..
+71300,East Arnhem (R),30,"1,097.00",391,7,327.3,547
+72200,Katherine (T),19,776,276,#,..,..
+72300,Litchfield (M),7,174.6,62,#,..,..
+72330,MacDonnell (R),16,"1,071.00",381,#,..,..
+72800,Palmerston (C),34,331.7,118,#,..,..
+73600,Roper Gulf (R),33,"1,691.90",602,7,555.4,929
+74050,Tiwi Islands (R),6,"1,016.50",362,#,..,..
+74550,Victoria Daly (R),12,"1,459.50",520,#,..,..
+74560,Wagait (S),#,..,..,#,..,..
+74660,West Arnhem (R),16,"1,002.30",357,#,..,..
+74680,West Daly (R),8,739.7,263,#,..,..
+79399,Unincorporated NT,20,"1,313.70",468,#,..,..
+PHN801,Australian Capital Territory,132,159.3,57,15,25.2,42
+89399,Unincorporated ACT,132,159.3,57,15,25.2,42
+,,,,,,,
+,Primary Health Network totals,,,,,,
+PHN101,Central and Eastern Sydney,299,116.8,42,56,24.6,41
+PHN102,Northern Sydney,183,107.2,38,22,19.2,32
+PHN103,Western Sydney,335,152.7,54,32,24,40
+PHN104,Nepean Blue Mountains,202,261.7,93,21,43,72
+PHN105,South Western Sydney,405,184.5,66,40,27.7,46
+PHN106,South Eastern NSW,368,332,118,27,35.4,59
+PHN107,Western NSW,364,574.1,204,32,86.8,145
+PHN108,Hunter New England and Central Coast,644,271.1,97,60,38.7,65
+PHN109,North Coast,276,311.6,111,36,65.8,110
+PHN110,Murrumbidgee,166,349.6,124,22,73,122
+PHN201,North Western Melbourne,747,211,75,117,44.4,74
+PHN202,Eastern Melbourne,510,182.7,65,66,30,50
+PHN203,South Eastern Melbourne,739,247.8,88,90,44.6,75
+PHN204,Gippsland,251,499.5,178,21,68.6,115
+PHN205,Murray,510,447.7,159,55,73.5,123
+PHN206,Western Victoria,532,447,159,94,117,196
+PHN301,Brisbane North,494,261.6,93,160,110.5,185
+PHN302,Brisbane South,"1,400",601.2,214,374,229.3,384
+PHN303,Gold Coast,229,202.2,72,36,44.1,74
+PHN304,Darling Downs and West Moreton,495,397.6,142,78,104.5,175
+PHN305,Western Queensland,79,536.7,191,17,238.8,399
+PHN306,"Central Queensland, Wide Bay, Sunshine Coast",316,202.5,72,53,53.6,90
+PHN307,Northern Queensland,345,244.8,87,77,86.6,145
+PHN401,Adelaide,711,327.3,117,71,43.9,73
+PHN402,Country SA,474,541.2,193,41,72.3,121
+PHN501,Perth North,399,194.4,69,54,39.6,66
+PHN502,Perth South,428,214.7,76,34,26.6,45
+PHN503,Country WA,616,570.9,203,37,65.2,109
+PHN601,Tasmania,266,290.9,104,28,44.2,74
+PHN701,Northern Territory,296,547.8,195,51,158.5,265
+PHN801,Australian Capital Territory,132,159.3,57,15,25.2,42
+,,,,,,,
+,,,,,,,
+,AUSTRALIA+,"13,260",280.9,100,"1,941",59.8,100
+,Greater Capital Cities,"7,766",242.1,86,"1,237",54.3,91
+,Rest of States/ NT,"5,442",359.6,128,679,70.3,118
+,Greater Capital Cities and Major Urban Centres++,"8,627",243.1,87,"1,360",53.8,90
+,Rest of States/ NT excluding Major Urban Centres++,"4,581",390.9,139,556,77.4,129
+,,,,,,,
+,New South Wales,"3,286",218.9,78,352,34.2,57
+,Greater Sydney,"1,622",163.2,58,184,26.2,44
+,Rest of New South Wales,"1,656",326.4,116,166,50.8,85
+,"Greater Sydney, Illawarra, and Newcastle and Lake Macquarie","1,950",174.3,62,212,26.7,45
+,"Rest of NSW excluding Illawarra, and Newcastle and Lake Macquarie","1,328",347.4,124,138,59,99
+,,,,,,,
+,New South Wales: PHN total,"3,242",217.5,77,347,34,57
+,,,,,,,
+,Victoria,"3,254",270.3,96,441,51.1,85
+,Greater Melbourne,"1,996",214.3,76,273,39.8,67
+,Rest of Victoria,"1,257",461.3,164,167,93.7,157
+,Greater Melbourne and Geelong,"2,197",222.3,79,293,40.5,68
+,Rest of Victoria excluding Geelong,"1,056",490.2,175,147,105.4,176
+,,,,,,,
+,Victoria: PHN total,"3,289",270.8,96,443,50.8,85
+,,,,,,,
+,Queensland,"3,356",345.8,123,795,120.6,202
+,Greater Brisbane,"2,153",442.9,158,574,166.3,278
+,Rest of Queensland,"1,203",248.4,88,221,70.3,118
+,"Greater Brisbane, Gold Coast  and Townsville","2,485",384.9,137,649,140.5,235
+,Rest of Queensland excluding Gold Coast and Townsville,871,268.1,95,146,74,124
+,,,,,,,
+,South Australia,"1,187",389.4,139,112,51.2,86
+,Greater Adelaide,824,346.4,123,80,45.4,76
+,Rest of South Australia,361,538.8,192,32,75.8,127
+,,,,,,,
+,Western Australia,"1,459",284.7,101,125,38.9,65
+,Greater Perth,826,204.6,73,88,33.2,56
+,Rest of Western Australia,617,567.2,202,37,65.3,109
+,,,,,,,
+,Tasmania,266,290.9,104,28,44.2,74
+,Greater Hobart,133,320.8,114,14,47.5,79
+,Rest of Tasmania,133,266,95,14,41.3,69
+,,,,,,,
+,Northern Territory,296,547.8,195,51,158.5,265
+,Greater Darwin,80,261.6,93,9,50.5,84
+,Rest of Northern Territory,215,916.5,326,42,293,490
+,,,,,,,
+,Australian Capital Territory (Canberra),132,159.3,57,15,25.2,42
