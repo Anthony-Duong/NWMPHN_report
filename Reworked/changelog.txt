@@ -1,0 +1,10 @@
+13 Feb 24
+Completed ED data function
+added function allowing individual data to be called
+added hospital admission data
+added income support
+update init data to pick out percentages
+'Internet_access', 'Learning_earning', 'Child_care', 'Income_support', 'Disability' added to init sheet func
+IRSD updated
+
+Future tasks:
