@@ -12,12 +12,12 @@ class setup_data():
         df.columns = df.iloc[3]
         df = df.iloc[4:596]
         df = df.dropna(axis = 'columns')
-        df = df.rename(columns = {'Code\n(PHN/LGA)': 'LGA_code','Name\n(PHN/LGA)':'LGA_name'})
+        df = df.rename(columns = {'Code\n(PHN/LGA)': 'LGA_code'})
         return df
 
     def create_data(self):
         data = pd.DataFrame()
         for sheet in self.sheets:
             data = pd.concat([data,self.init_sheet(sheet)], axis =1)
-        data = data.drop(columns=['Quality indicator*'])
+        data = data.drop(columns=['Quality indicator*','Name\n(PHN/LGA)'])
         return data
